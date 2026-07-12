@@ -31,56 +31,56 @@ The project includes:
 
 ### Project Workflow
 1️⃣ Data Collection
-  Imported customer dataset
-  Initial data inspection
-  Dataset understanding
+  - Imported customer dataset
+  - Initial data inspection
+  - Dataset understanding
   
 2️⃣ Data Preprocessing
-  Missing value handling
-  Duplicate removal
-  Feature encoding
-  Data scaling
-  Outlier analysis
-  Data cleaning
+  - Missing value handling
+  - Duplicate removal
+  - Feature encoding
+  - Data scaling
+  - Outlier analysis
+  - Data cleaning
   
 3️⃣ Exploratory Data Analysis (EDA)
-  Distribution analysis
-  Correlation analysis
-  Customer behavior visualization
-  Statistical summaries
-  Feature relationship analysis
+  - Distribution analysis
+  - Correlation analysis
+  - Customer behavior visualization
+  - Statistical summaries
+  - Feature relationship analysis
   
 4️⃣ Feature Engineering
-  Data transformation
-  Feature selection
-  Feature scaling
-  Dimensionality optimization
+  - Data transformation
+  - Feature selection
+  - Feature scaling
+  - Dimensionality optimization
 
 5️⃣ Dimensionality Reduction
-Applied Principal Component Analysis (PCA) to reduce feature dimensions while preserving the majority of the dataset's variance, improving clustering efficiency and visualization.
+- Applied Principal Component Analysis (PCA) to reduce feature dimensions while preserving the majority of the dataset's variance, improving clustering efficiency and visualization.
 
 6️⃣ Customer Clustering
-Implemented and compared multiple clustering techniques:
-  K-Means Clustering
-  Agglomerative Hierarchical Clustering
-Optimal cluster selection was determined using methods such as:
-  Elbow Method
-  Silhouette Analysis
+  - Implemented and compared multiple clustering techniques:
+    - K-Means Clustering
+    - Agglomerative Hierarchical Clustering
+  - Optimal cluster selection was determined using methods such as:
+    - Elbow Method
+    - Silhouette Analysis
   
 7️⃣ Model Evaluation
-Evaluated clustering quality using:
-  Silhouette Score
-  Adjusted Rand Index (ARI)
-  Cluster comparison
-  Cluster stability analysis
+  - Evaluated clustering quality using:
+    - Silhouette Score
+    - Adjusted Rand Index (ARI)
+    - Cluster comparison
+    - Cluster stability analysis
 
 8️⃣ Business Interpretation
-Converted technical clusters into meaningful customer personas and provided actionable business recommendations for:
-  Personalized marketing
-  Customer retention
-  Product recommendations
-  Targeted promotions
-  Revenue optimization
+  - Converted technical clusters into meaningful customer personas and provided actionable business recommendations for:
+    - Personalized marketing
+    - Customer retention
+    - Product recommendations
+    - Targeted promotions
+    - Revenue optimization
 
 ### Technologies Used
   - Python

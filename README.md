@@ -49,6 +49,7 @@ The project includes:
   Customer behavior visualization
   Statistical summaries
   Feature relationship analysis
+  
 4️⃣ Feature Engineering
   Data transformation
   Feature selection

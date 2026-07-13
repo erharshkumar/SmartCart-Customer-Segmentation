@@ -1,4 +1,4 @@
-# E-Commerce Customer Segmentation System
+# E-Commerce Smartcart Customer Segmentation System
 
 ## Project Overview
 Customer behavior is crucial knowledge for any e-commerce business. Instead of treating all customers uniformly, Machine Learning allows businesses to identify important customer segments and develop personalized marketing strategies.
